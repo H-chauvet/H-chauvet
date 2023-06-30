@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=H-chauvet&color=green)
 
-- 🌱 I’m currently learning C, C++ and Python
+- 🌱 I’m currently learning Data Science & Data Engineering & MAchine Learning with Python, Pandas and other tools / languages
 
 - 📫 How to reach me: henri.chauvet1@gmail.com or henri.chauvet@epitech.eu
 
